@@ -2,10 +2,6 @@
 
 <div align="center">
 
-![LegalVision Logo](https://img.shields.io/badge/LegalVision-AI%20Legal%20Assistant-blue?style=for-the-badge&logo=law)
-![GPT-5 Powered](https://img.shields.io/badge/Powered%20by-GPT--5-green?style=for-the-badge&logo=openai)
-![Live Demo](https://img.shields.io/badge/Live%20Demo-Available-brightgreen?style=for-the-badge&logo=vercel)
-
 **Your AI-Powered Legal Assistant with Advanced Document Analysis and Multi-Modal Processing**
 
 [🌐 Live Website](https://legal-vision-app-for-law-flame.vercel.app/) | [📱 Frontend Repo](https://github.com/abdullahxyz85/Legal-Vision-app-for-law.git) | [⚙️ Backend Repo](https://github.com/MUHAMMAD-AZEEM-AZAM/LegalVision-backend.git)
@@ -386,7 +382,7 @@ npm run build
 # Deploy to Vercel via GitHub integration
 ```
 
-### Backend (Heroku/Railway)
+### Backend (Heroku)
 ```bash
 cd backend
 # Add Procfile for Heroku
@@ -450,3 +446,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Empowering legal professionals and individuals with AI-driven legal assistance*
 
 </div>
+
