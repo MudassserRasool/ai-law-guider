@@ -3,6 +3,7 @@
 <div align="center">
 
 **Your AI-Powered Legal Assistant with Advanced Document Analysis and Multi-Modal Processing**
+
 These are our actual repos with all commit history. This new repo is created to merge both the codes into a single repository.
 
 [🌐 Live Website](https://legal-vision-app-for-law-flame.vercel.app/) | [📱 Frontend Repo](https://github.com/abdullahxyz85/Legal-Vision-app-for-law.git) | [⚙️ Backend Repo](https://github.com/MUHAMMAD-AZEEM-AZAM/LegalVision-backend.git)
@@ -447,5 +448,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Empowering legal professionals and individuals with AI-driven legal assistance*
 
 </div>
+
 
 
